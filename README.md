@@ -1,16 +1,22 @@
-To run the console app from outside the folder, Type..
+Run Project
 ```
-dotnet run --project DGCConsole
+dotnet run
+dotnet new -h
+dotnet new --list
 ```
 
-.NET File 
+
+To run the console app from outside the folder, Type..
+```
+dotnet run --project DGCConsole or 
+dotnet run inside the app.
+```
+
+
+.NET GitHub File 
 ```
 dotnet new gitignore
 ```
 
 https://www.youtube.com/watch?v=RQLzp2Z8-BE
 
-Run Project
-```
-dotnet run
-```
