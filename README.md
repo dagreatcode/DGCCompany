@@ -21,3 +21,5 @@ dotnet new gitignore
 https://www.youtube.com/watch?v=RQLzp2Z8-BE
 
 WebAPI will be localhost/swagger/index.html
+
+I will be making a server with nodejs to be able to deploy. Another option for me to do and I might do because I need to try something new is to put this project in Docker an deploy it that way. 
