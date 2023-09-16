@@ -20,3 +20,4 @@ dotnet new gitignore
 
 https://www.youtube.com/watch?v=RQLzp2Z8-BE
 
+WebAPI will be localhost/swagger/index.html
